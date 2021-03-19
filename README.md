@@ -11,4 +11,7 @@ The JavaScript30 is a challenge where you build 30 different things with vanilla
 - **DAY 01**:
     - Date: 19/03/2021
     - Topic: JavaScript Drum Kit
-    - Link to challenge files [here]()
+    - Link to challenge files [here](https://github.com/YassineChayrrou/JavaScript30/tree/main/01%20-%20JavaScript%20Drum%20Kit)
+    - Enhancements notes:
+        - [ ] add animation to buttons when keystroke is hit
+        - [ ] add record option to play in loop
