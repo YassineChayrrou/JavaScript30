@@ -1,6 +1,14 @@
 # JavaScript30
 
-The JavaScript 30 day challenge by wesbos, i create 30 different things with vanilla JavaScript each day for 30 days.
-Link to [JavaScript30](https://javascript30.com/)
+## what is JavaScript30 coding challlenge?
+The JavaScript30 is a challenge where you build 30 different things with vanilla JS for 30 days in this repository i will be using the project ideas offered by wesbos at his website <a href="google.com" target="_blank">JavaScript30</a>.
 
-## day 1: 19/03/2021 ---> JAVASCRIPT DRUM KIT
+## Daily Logs:
+
+<br />
+<br />
+
+- **DAY 01**:
+    - Date: 19/03/2021
+    - Topic: JavaScript Drum Kit
+    - Link to challenge files [here]()
