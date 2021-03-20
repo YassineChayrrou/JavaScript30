@@ -16,6 +16,7 @@ The JavaScript30 is a challenge where you build 30 different things with vanilla
         - [ ] add animation to buttons when keystroke is hit
         - [ ] add record option to play in loop
 
+
 **DAY 02**:
     - Date: 20/03/2021
     - Topic: Javascript Clock
