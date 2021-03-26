@@ -1,4 +1,4 @@
-function realTimeClock() {
+function digitalClock() {
   let now = new Date();
   let minute = now.getMinutes();
   let hour = now.getHours();
@@ -20,5 +20,11 @@ function realTimeClock() {
     "#digital-clock"
   ).innerHTML = `${hour} : ${minute} : ${second} ${amOrPm}`;
 
-  var t = setTimeout(realTimeClock, 500);
+  var t = setTimeout(digitalClock, 500);
 }
+
+document.querySelector(".btn-1")
+  .addEventListener('click', event => {
+    console.log('we are here')
+    event.target.innerHTML = "hello"
+  })

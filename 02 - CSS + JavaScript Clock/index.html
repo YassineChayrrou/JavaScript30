@@ -10,15 +10,28 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 
-<body onload="realTimeClock()">
+<body>
     <div class="container">
         <div class="digital-clock">
             <h1 id="digital-clock"></h1>
             <h1>LIVE DIGITAL CLOCK</h1>
         </div>
-        <div class="classical-clock"></div>
+        <div class="classical-clock">
+            <div class="clock">
+                <div class="face">
+                    <div class="hours-hand"></div>
+                    <div class="minutes-hand"></div>
+                    <div class="seconds-hand"></div>
+                </div>
+                <h1>LIVE CLASSICAL CLOCK</h1>
+            </div>
+        </div>
     </div>
-    <button onclick="realTimeClock()">Default</button>
+    <div class="wrapper">
+                       <button class="btn-1">digitalClock</button>
+        <h2>or</h2>
+        <button class="btn-2">classicalClock</button>
+    </div>
     <!-- <button onclick="realTimeClock()">Update Me</button> -->
 
 
